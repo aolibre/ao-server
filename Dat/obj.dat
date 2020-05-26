@@ -1620,7 +1620,7 @@ ObjType=10
 Agarrable=1
 
 [OBJ138]
-Name=Equipo de Pescar
+Name=Equipo de Pesca
 GrhIndex=574
 ObjType=2
 Agarrable=0
@@ -1628,7 +1628,7 @@ Anim=20
 RazaEnanaAnim=76
 MinHit=1
 MaxHit=1
-Valor= 200
+Valor=1000
 Crucial=1
 Madera=70
 SkCarpinteria=12
@@ -6458,7 +6458,7 @@ Name=Red de Pesca
 GrhIndex=844
 ObjType=2
 Agarrable=0
-Valor=5000
+Valor=10000
 Crucial=0
 
 [OBJ544]
@@ -6712,7 +6712,7 @@ Newbie=1
 Crucial=1
 
 [OBJ563]
-Name=Equipo de pescar (Newbie)
+Name=Equipo de Pesca (Newbie)
 GrhIndex=574
 ObjType=2
 Agarrable=0
